@@ -1,0 +1,19 @@
+#import discord
+#from discord.ext import commands
+
+#class Welcome(commands.Cog):
+  #def __init__(self, client):
+    #self.client = client
+
+ # @commands.Cog.listener()
+  #async def on_member_join(self, member):
+    #782676434702434385 #- entry log ID
+    # 1. Send a DM to the user
+
+   # channel = await member.create_dm()
+    #await channel.send("Hi, welcome to the lewd den, this server is the unofficial NSFW expansion of Aurora Media Group International (AMGI). Please can you complete this form below for us to know that you will be an appropriate member.")
+
+    #await channel.send("will you complete this form for us? https://forms.gle/hche7FWYv49LqwMH8")
+
+#def setup(client):
+  #client.add_cog(Welcome(client))

@@ -1,0 +1,28 @@
+ToDo list: (use this to prioritize fixing bugs/incomplete commands in your code)
+
+-
+-
+-
+-
+-
+-
+-
+
+Command ideas:
+
+- Admin
+  - Ban - done
+  - Kick - done
+  - Clear - done
+  
+  More Advanced
+  - Mute
+  - Temp Mute
+  - Temp Ban
+  - add a user option to the clear to only clear messages from a user
+
+ Fun
+  Chop off cock - Angel
+  
+
+(etc)
